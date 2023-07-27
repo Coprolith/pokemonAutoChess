@@ -253,5 +253,16 @@
   "ability.PSYCHIC_SURGE": "Créa-Psy",
   "ability.MIND_BLOWN": "Caboche-Kaboum",
   "ability.PAYDAY": "Jackpot",
-  "ability.BEAT_UP": "Baston"
+  "ability.BEAT_UP": "Baston",
+  "ability.BLUE_FLARE": "Flamme Bleue",
+  "ability.FUSION_BOLT": "Éclair Croix",
+  "ability.AURORA_VEIL": "Voile Aurore",
+  "ability.AQUA_JET": "Aqua Jet",
+  "ability.JUDGEMENT": "Jugement",
+  "ability.CHATTER": "Babil",
+  "ability.STEAM_ERUPTION": "Jet de Vapeur",
+  "ability.APPLE_ACID": "Acide Malique",
+  "ability.SACRED_SWORD": "Lame Sainte",
+  "ability.SHADOW_BALL": "Ball'Ombre",
+  "ability.DIVE": "Plongée"
 }
